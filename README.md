@@ -1,5 +1,7 @@
 # ESPAsyncWebServer 
 
+***ERROR: Release 1.2.7 not synced to Arduino Library Registry!***
+
 Async HTTP and WebSocket Server for ESP8266 Arduino
 
 For ESP8266 it requires [ESPAsyncTCP](https://github.com/dvarrel/ESPAsyncTCP)
