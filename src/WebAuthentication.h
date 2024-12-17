@@ -24,8 +24,8 @@
 
 #include "Arduino.h"
 
-// Code for version 3.x
 #ifdef ESP32
+  // Code for version 3.x
   #if ESP_ARDUINO_VERSION >= ESP_ARDUINO_VERSION_VAL(3, 0, 0)
     #include "mbedtls/compat-2.x.h"
   #endif
